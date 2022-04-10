@@ -33,7 +33,7 @@ vie.config.js - vite config file
 - [ ] add vuex
 - [ ] add vue router
 - [ ] add vue devtools for electron
-
+- [ ] try to add vue native
 ## Technologies used 
 - vue 3
 - vite
