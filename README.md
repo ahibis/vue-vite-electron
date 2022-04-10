@@ -9,8 +9,6 @@ fast start to using vue 3,vite 3, vuetify 3, electron.js.
 - yarn build:docs - build web project for github pages
 - yarn app:build - compile windows app
 
-## sass, post.css and other
-
 ## Structure
 ```
 dist - compiled version for the browser
